@@ -1,0 +1,8 @@
+cara membuat prompt termux
+
+PS1='\u\h\w\n nama kalian '
+contoh:
+PS1='\u\@\h\=\w\n RADEN•>>[\#\]<•>$ '
+aka hasilnya seperti ini'
+root@localhost=/sdcard/raden
+RADEN•>>[1]<•>$
